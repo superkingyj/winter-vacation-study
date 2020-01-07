@@ -4,7 +4,7 @@
 
 이는 신경망과 딥러닝으로 나아가는 데 중요한 역할을 합니다.
 
-[##_Image|kage@wWTWM/btqAWxa3Ido/3uuRJXQpuSfTZGUDKxUaK0/img.png|alignLeft|data-filename="0_LJBO8UbtzK_SKMog.png" data-origin-width="645" data-origin-height="351" width="536" height="292"|Perceptron||_##]
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 퍼셉트론은 "다수 입력 - 단일 출력"의 형태입니다.
 
@@ -22,7 +22,7 @@
 
 ## **인공신경망**
 
-[##_Image|kage@bzSELp/btqATg2Kag5/4sVKksrsLgC8YWYRGNgWyK/img.jpg|alignLeft|data-filename="n.JPG" data-origin-width="630" data-origin-height="567" width="451" height="406"|neural network||_##]
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 -   동그라미 = 노드
     
