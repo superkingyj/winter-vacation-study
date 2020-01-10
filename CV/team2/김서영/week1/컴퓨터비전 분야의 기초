@@ -1,0 +1,28 @@
+### 컴퓨터 비전(Computer Vision)이란?
+
+컴퓨터가 디지털 이미지나 영상을 이해하는 방법에 대해 다루고, 인간의 시각이 할 수 있는 일을 자동으로 할 수 있도록 연구하는 분야이다. (It is a reserch filed that deals with how computers can understand digital images or videos. It seeks to automate tasks that the human vision system can do.)
+
+-   전처리(Preprocessing)
+    
+
+![](https://k.kakaocdn.net/dn/cqEI85/btqAVHyu0cz/vj7kmmXv4OOoalPkwQDyQk/img.png)
+
+-   이미지 분할(Image/Video Segmentation)
+    
+
+[##_Image|kage@7HmqY/btqAXQOw2g6/mzCjAHEkaJbKNE4KvKEzg1/img.png|alignLeft|data-origin-width="728" data-origin-height="593" data-filename="blob" width="511" height="416"|||_##]
+
+-   엣지 및 선 검출(Edge extraction/Line detection)
+    
+
+[##_Image|kage@H32SF/btqASyWPawi/OiwFOHTUH4rghw6SLDOu3k/img.png|alignLeft|data-origin-width="914" data-origin-height="667" data-filename="blob" width="639" height="466"|||_##]
+
+-   물체 감지 및 추적(Object detcetion/Tracking)
+    
+
+[##_Image|kage@curqkK/btqAXoSgajo/21KCJejvMGxHjKZGunS61k/img.png|alignLeft|data-origin-width="856" data-origin-height="620" data-filename="blob" width="521" height="377"|||_##]
+
+-   이미지 변환(Image Transformation)
+    
+
+[##_Image|kage@mSh2P/btqAVHk0zOT/yDJEVnMkPv8XOj00jHH0mK/img.png|alignLeft|data-origin-width="1033" data-origin-height="345" data-filename="blob" width="661" height="232"|||_##]
